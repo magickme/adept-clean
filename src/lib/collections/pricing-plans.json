@@ -1,0 +1,692 @@
+{
+    "pricing_plans": [
+        {
+            "id": 18342,
+            "created_at": "2015-07-09T19:36:20Z",
+            "updated_at": "2023-07-21T21:49:05Z",
+            "name": "1 Hour",
+            "price": 15000,
+            "currency": "USD",
+            "course_id": 19465,
+            "free_trial_length": null
+        },
+        {
+            "id": 18341,
+            "created_at": "2015-07-09T19:35:53Z",
+            "updated_at": "2023-07-21T21:49:20Z",
+            "name": "30 Minutes",
+            "price": 7500,
+            "currency": "USD",
+            "course_id": 19465,
+            "free_trial_length": null
+        },
+        {
+            "id": 93716,
+            "created_at": "2016-04-26T02:24:41Z",
+            "updated_at": "2016-04-26T02:24:41Z",
+            "name": "Financing",
+            "price": 24900,
+            "currency": "USD",
+            "course_id": 67266,
+            "free_trial_length": null
+        },
+        {
+            "id": 93714,
+            "created_at": "2016-04-26T02:22:41Z",
+            "updated_at": "2016-04-26T02:22:41Z",
+            "name": "Paid Course",
+            "price": 99000,
+            "currency": "USD",
+            "course_id": 67266,
+            "free_trial_length": null
+        },
+        {
+            "id": 1709740,
+            "created_at": "2020-03-06T21:52:20Z",
+            "updated_at": "2023-07-21T22:47:10Z",
+            "name": "Paid Course",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 799369,
+            "free_trial_length": null
+        },
+        {
+            "id": 891436,
+            "created_at": "2018-11-26T14:48:34Z",
+            "updated_at": "2018-11-26T14:48:34Z",
+            "name": "Yearly",
+            "price": 24900,
+            "currency": "USD",
+            "course_id": 452354,
+            "free_trial_length": null
+        },
+        {
+            "id": 891439,
+            "created_at": "2018-11-26T14:49:01Z",
+            "updated_at": "2018-11-26T14:49:01Z",
+            "name": "Lifetime",
+            "price": 49900,
+            "currency": "USD",
+            "course_id": 452354,
+            "free_trial_length": null
+        },
+        {
+            "id": 891433,
+            "created_at": "2018-11-26T14:46:32Z",
+            "updated_at": "2018-11-26T14:48:07Z",
+            "name": "Monthly",
+            "price": 4900,
+            "currency": "USD",
+            "course_id": 452354,
+            "free_trial_length": null
+        },
+        {
+            "id": 1046614,
+            "created_at": "2019-03-12T21:03:51Z",
+            "updated_at": "2019-03-12T21:03:51Z",
+            "name": "Course + Personal Life Transformation Session",
+            "price": 99700,
+            "currency": "USD",
+            "course_id": 518675,
+            "free_trial_length": null
+        },
+        {
+            "id": 1046610,
+            "created_at": "2019-03-12T21:02:55Z",
+            "updated_at": "2019-03-12T21:03:33Z",
+            "name": "One-Time Purchase",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 518675,
+            "free_trial_length": null
+        },
+        {
+            "id": 1046612,
+            "created_at": "2019-03-12T21:03:22Z",
+            "updated_at": "2019-03-12T21:03:22Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 518675,
+            "free_trial_length": null
+        },
+        {
+            "id": 1046633,
+            "created_at": "2019-03-12T21:09:02Z",
+            "updated_at": "2019-03-12T21:09:02Z",
+            "name": "Course + Personal Life Transformation + Live Event or Mastermind",
+            "price": 199700,
+            "currency": "USD",
+            "course_id": 518675,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069168,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-03-26T22:29:30Z",
+            "name": "Course + Personal Life Transformation + Live Event or Mastermind",
+            "price": 199700,
+            "currency": "USD",
+            "course_id": 530797,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069169,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-03-26T22:29:30Z",
+            "name": "Course + Personal Life Transformation Session",
+            "price": 99700,
+            "currency": "USD",
+            "course_id": 530797,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069170,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-03-26T22:29:30Z",
+            "name": "One-Time Purchase",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 530797,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069171,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-03-26T22:29:30Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 530797,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069172,
+            "created_at": "2019-03-26T22:29:55Z",
+            "updated_at": "2019-03-26T22:29:57Z",
+            "name": "Course + Personal Life Transformation + Live Event or Mastermind",
+            "price": 199700,
+            "currency": "USD",
+            "course_id": 530798,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069173,
+            "created_at": "2019-03-26T22:29:55Z",
+            "updated_at": "2019-03-26T22:29:57Z",
+            "name": "Course + Personal Life Transformation Session",
+            "price": 99700,
+            "currency": "USD",
+            "course_id": 530798,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069174,
+            "created_at": "2019-03-26T22:29:55Z",
+            "updated_at": "2019-03-26T22:29:57Z",
+            "name": "One-Time Purchase",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 530798,
+            "free_trial_length": null
+        },
+        {
+            "id": 1069175,
+            "created_at": "2019-03-26T22:29:55Z",
+            "updated_at": "2019-03-26T22:29:58Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 530798,
+            "free_trial_length": null
+        },
+        {
+            "id": 3922005,
+            "created_at": "2022-04-05T02:32:26Z",
+            "updated_at": "2022-04-05T02:32:26Z",
+            "name": "Course Purchase",
+            "price": 24700,
+            "currency": "USD",
+            "course_id": 718640,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485833,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T06:30:56Z",
+            "name": "Course + Personal Life Transformation + Live Event or Mastermind",
+            "price": 199700,
+            "currency": "USD",
+            "course_id": 705098,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485834,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T06:30:56Z",
+            "name": "Course + Personal Life Transformation Session",
+            "price": 99700,
+            "currency": "USD",
+            "course_id": 705098,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485835,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T06:30:57Z",
+            "name": "One-Time Purchase",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 705098,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485836,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T06:30:57Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 705098,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485920,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T07:01:17Z",
+            "name": "Course + Personal Life Transformation + Live Event or Mastermind",
+            "price": 199700,
+            "currency": "USD",
+            "course_id": 705116,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485921,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T07:01:17Z",
+            "name": "Course + Personal Life Transformation Session",
+            "price": 99700,
+            "currency": "USD",
+            "course_id": 705116,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485922,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T07:01:17Z",
+            "name": "One-Time Purchase",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 705116,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485923,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2019-11-15T07:01:17Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 705116,
+            "free_trial_length": null
+        },
+        {
+            "id": 1513779,
+            "created_at": "2016-04-20T20:52:04Z",
+            "updated_at": "2019-11-25T19:55:01Z",
+            "name": "Paid Course",
+            "price": 5500,
+            "currency": "USD",
+            "course_id": 713926,
+            "free_trial_length": null
+        },
+        {
+            "id": 1709742,
+            "created_at": "2020-03-06T21:52:45Z",
+            "updated_at": "2020-03-06T21:52:45Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 799369,
+            "free_trial_length": null
+        },
+        {
+            "id": 2706976,
+            "created_at": "2020-12-16T21:08:11Z",
+            "updated_at": "2020-12-16T21:08:11Z",
+            "name": "497",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 1248871,
+            "free_trial_length": null
+        },
+        {
+            "id": 1445756,
+            "created_at": "2019-11-04T06:48:13Z",
+            "updated_at": "2022-01-25T06:32:21Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 687739,
+            "free_trial_length": null
+        },
+        {
+            "id": 3850808,
+            "created_at": "2022-03-07T22:41:32Z",
+            "updated_at": "2022-03-09T05:32:10Z",
+            "name": "Basic Package",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 1702610,
+            "free_trial_length": null
+        },
+        {
+            "id": 3948302,
+            "created_at": "2022-04-17T05:34:04Z",
+            "updated_at": "2022-04-17T05:35:29Z",
+            "name": "Upgrade From Bronze to SILVER LEVEL",
+            "price": 30000,
+            "currency": "USD",
+            "course_id": 1746298,
+            "free_trial_length": null
+        },
+        {
+            "id": 3948303,
+            "created_at": "2022-04-17T05:34:33Z",
+            "updated_at": "2022-04-17T05:35:37Z",
+            "name": "Upgrade from Bronze to GOLD LEVEL",
+            "price": 80000,
+            "currency": "USD",
+            "course_id": 1746298,
+            "free_trial_length": null
+        },
+        {
+            "id": 3948304,
+            "created_at": "2022-04-17T05:34:54Z",
+            "updated_at": "2022-04-17T05:35:44Z",
+            "name": "Upgrade from Silver to GOLD LEVEL",
+            "price": 50000,
+            "currency": "USD",
+            "course_id": 1746298,
+            "free_trial_length": null
+        },
+        {
+            "id": 4064351,
+            "created_at": "2022-06-06T21:18:35Z",
+            "updated_at": "2022-06-06T21:18:35Z",
+            "name": "Annual: Core Curriculum",
+            "price": 69700,
+            "currency": "USD",
+            "course_id": 11690,
+            "free_trial_length": null
+        },
+        {
+            "id": 3956600,
+            "created_at": "2022-04-20T20:36:43Z",
+            "updated_at": "2022-05-04T11:17:30Z",
+            "name": "Monthly: Core Curriculum (90 Days Free)",
+            "price": 4900,
+            "currency": "USD",
+            "course_id": 11690,
+            "free_trial_length": 90
+        },
+        {
+            "id": 4063907,
+            "created_at": "2022-06-06T18:38:10Z",
+            "updated_at": "2022-06-06T18:38:10Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10682,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063909,
+            "created_at": "2022-06-06T18:38:36Z",
+            "updated_at": "2022-06-06T18:38:36Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10499,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063930,
+            "created_at": "2022-06-06T18:43:22Z",
+            "updated_at": "2022-06-06T18:43:22Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10498,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063904,
+            "created_at": "2022-06-06T18:37:50Z",
+            "updated_at": "2022-06-06T18:37:50Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10502,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063747,
+            "created_at": "2022-06-06T17:42:56Z",
+            "updated_at": "2022-06-06T17:42:56Z",
+            "name": "One-Time Payment",
+            "price": 24700,
+            "currency": "USD",
+            "course_id": 313197,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063916,
+            "created_at": "2022-06-06T18:40:04Z",
+            "updated_at": "2022-06-06T18:40:04Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10509,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063915,
+            "created_at": "2022-06-06T18:39:34Z",
+            "updated_at": "2022-06-06T18:39:34Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10689,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063918,
+            "created_at": "2022-06-06T18:40:26Z",
+            "updated_at": "2022-06-06T18:40:26Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10687,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063920,
+            "created_at": "2022-06-06T18:41:08Z",
+            "updated_at": "2022-06-06T18:41:08Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10496,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063722,
+            "created_at": "2022-06-06T17:29:32Z",
+            "updated_at": "2022-06-06T17:29:32Z",
+            "name": "Two Monthly Payments",
+            "price": 34700,
+            "currency": "USD",
+            "course_id": 925547,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063921,
+            "created_at": "2022-06-06T18:41:33Z",
+            "updated_at": "2022-06-06T18:41:33Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10672,
+            "free_trial_length": null
+        },
+        {
+            "id": 4064263,
+            "created_at": "2022-06-06T20:36:37Z",
+            "updated_at": "2022-06-06T21:18:46Z",
+            "name": "Monthly: Core Curriculum",
+            "price": 6700,
+            "currency": "USD",
+            "course_id": 11690,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063928,
+            "created_at": "2022-06-06T18:43:03Z",
+            "updated_at": "2022-06-06T18:43:03Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10677,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063923,
+            "created_at": "2022-06-06T18:41:52Z",
+            "updated_at": "2022-06-06T18:41:52Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10510,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063721,
+            "created_at": "2022-06-06T17:29:15Z",
+            "updated_at": "2022-06-06T17:29:15Z",
+            "name": "One-Time Purchase",
+            "price": 64700,
+            "currency": "USD",
+            "course_id": 925547,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063740,
+            "created_at": "2022-06-06T17:37:28Z",
+            "updated_at": "2022-06-06T17:37:28Z",
+            "name": "One-Time Purchase",
+            "price": 149700,
+            "currency": "USD",
+            "course_id": 1218981,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063931,
+            "created_at": "2022-06-06T18:43:43Z",
+            "updated_at": "2022-06-06T18:43:43Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10501,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063926,
+            "created_at": "2022-06-06T18:42:25Z",
+            "updated_at": "2022-06-06T18:42:25Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 330088,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063903,
+            "created_at": "2022-06-06T18:37:22Z",
+            "updated_at": "2022-06-06T18:37:22Z",
+            "name": "Paid Course",
+            "price": 9700,
+            "currency": "USD",
+            "course_id": 10683,
+            "free_trial_length": null
+        },
+        {
+            "id": 4114377,
+            "created_at": "2022-06-30T18:58:06Z",
+            "updated_at": "2022-06-30T18:58:06Z",
+            "name": "Enjoy This Complimentary Free Session!",
+            "price": 0,
+            "currency": "USD",
+            "course_id": 1825245,
+            "free_trial_length": null
+        },
+        {
+            "id": 4202620,
+            "created_at": "2022-08-12T02:55:04Z",
+            "updated_at": "2022-08-12T02:55:04Z",
+            "name": "One-Time Purchase",
+            "price": 64700,
+            "currency": "USD",
+            "course_id": 1846436,
+            "free_trial_length": null
+        },
+        {
+            "id": 4202621,
+            "created_at": "2022-08-12T02:55:46Z",
+            "updated_at": "2022-08-12T02:55:46Z",
+            "name": "Two Monthly Payments",
+            "price": 34700,
+            "currency": "USD",
+            "course_id": 1846436,
+            "free_trial_length": null
+        },
+        {
+            "id": 1527052,
+            "created_at": "2019-12-02T04:17:50Z",
+            "updated_at": "2022-10-20T01:41:39Z",
+            "name": "Annual: Core Curriculum",
+            "price": 49900,
+            "currency": "USD",
+            "course_id": 11690,
+            "free_trial_length": null
+        },
+        {
+            "id": 4431354,
+            "created_at": "2022-11-23T06:59:06Z",
+            "updated_at": "2023-01-05T13:39:01Z",
+            "name": "Course Only",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 1950367,
+            "free_trial_length": null
+        },
+        {
+            "id": 1485840,
+            "created_at": "2019-03-26T22:29:27Z",
+            "updated_at": "2023-03-31T02:03:08Z",
+            "name": "Three Monthly Payments",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 705099,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063675,
+            "created_at": "2022-06-06T17:20:50Z",
+            "updated_at": "2023-03-31T02:03:08Z",
+            "name": "One-Time Purchase",
+            "price": 64700,
+            "currency": "USD",
+            "course_id": 705099,
+            "free_trial_length": null
+        },
+        {
+            "id": 4063680,
+            "created_at": "2022-06-06T17:22:46Z",
+            "updated_at": "2023-03-31T02:03:08Z",
+            "name": "Two Monthly Payments",
+            "price": 34700,
+            "currency": "USD",
+            "course_id": 705099,
+            "free_trial_length": null
+        },
+        {
+            "id": 4796951,
+            "created_at": "2023-05-24T21:59:29Z",
+            "updated_at": "2023-05-24T21:59:29Z",
+            "name": "Instant Tuition",
+            "price": 19700,
+            "currency": "USD",
+            "course_id": 2091484,
+            "free_trial_length": null
+        },
+        {
+            "id": 5500384,
+            "created_at": "2024-04-24T19:47:11Z",
+            "updated_at": "2024-04-24T19:47:11Z",
+            "name": "3 Monthly Payments",
+            "price": 6700,
+            "currency": "USD",
+            "course_id": 1702610,
+            "free_trial_length": null
+        }
+    ],
+    "meta": {
+        "total": 68,
+        "page": 1,
+        "from": 1,
+        "to": 68,
+        "per_page": 70,
+        "number_of_pages": 1
+    }
+}

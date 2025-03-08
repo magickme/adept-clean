@@ -1,0 +1,195 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`FourColumnCompanyMission > Basic Rendering > matches snapshot 1`] = `
+<div>
+  <footer
+    aria-labelledby="footer-heading"
+    class="bg-kohl"
+    data-testid=""
+  >
+    <h2
+      class="sr-only"
+      id="footer-heading"
+    >
+      Footer
+    </h2>
+     
+    <div
+      class="mx-auto max-w-7xl px-6 pb-8 pt-16 sm:pt-24 lg:px-8 lg:pt-32"
+    >
+      <div
+        class="xl:grid xl:grid-cols-3 xl:gap-8"
+      >
+        <div
+          class="space-y-8"
+        >
+          <img
+            alt="Magick.Me Logo"
+            class="h-7"
+            src="/mock/logo.svg"
+          />
+           
+          <p
+            class="text-sm leading-6 text-ivory"
+          >
+            Making the world a better place by democratizing access to spirituality.
+          </p>
+           
+          <div
+            class="flex space-x-6"
+          >
+            <a
+              class="text-ivory hover:text-cerulean"
+              href="https://twitter.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <span
+                class="sr-only"
+              >
+                Twitter
+              </span>
+               
+              <svg
+                aria-hidden="true"
+                class="h-6 w-6"
+                fill="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="path"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </a>
+            <a
+              class="text-ivory hover:text-cerulean"
+              href="https://linkedin.com"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <span
+                class="sr-only"
+              >
+                LinkedIn
+              </span>
+               
+              <svg
+                aria-hidden="true"
+                class="h-6 w-6"
+                fill="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="path"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </a>
+            
+          </div>
+        </div>
+         
+        <div
+          class="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0"
+        >
+          <div
+            class="md:grid md:grid-cols-2 md:gap-8"
+          >
+            <div>
+              <h3
+                class="text-h4 text-ivory"
+              >
+                Solutions
+              </h3>
+               
+              <ul
+                class="mt-6 space-y-4"
+                role="list"
+              >
+                <li>
+                  <a
+                    class="text-cap text-ivory hover:text-cerulean"
+                    href="/link1"
+                    rel=""
+                    target="_self"
+                  >
+                    Link 1
+                  </a>
+                </li>
+                <li>
+                  <a
+                    class="text-cap text-ivory hover:text-cerulean"
+                    href="/link2"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    Link 2
+                  </a>
+                </li>
+                
+              </ul>
+            </div>
+            <div
+              class="mt-10 md:mt-0"
+            >
+              <h3
+                class="text-h4 text-ivory"
+              >
+                Support
+              </h3>
+               
+              <ul
+                class="mt-6 space-y-4"
+                role="list"
+              >
+                <li>
+                  <a
+                    class="text-cap text-ivory hover:text-cerulean"
+                    href="/help"
+                    rel=""
+                    target="_self"
+                  >
+                    Help
+                  </a>
+                </li>
+                <li>
+                  <a
+                    class="text-cap text-ivory hover:text-cerulean"
+                    href="/contact"
+                    rel=""
+                    target="_self"
+                  >
+                    Contact
+                  </a>
+                </li>
+                
+              </ul>
+            </div>
+            
+          </div>
+           
+          <div
+            class="md:grid md:grid-cols-2 md:gap-8"
+          >
+            
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="mt-16 border-t border-ivory/10 pt-8 sm:mt-20 lg:mt-24"
+      >
+        <p
+          class="text-cap text-ivory"
+        >
+          © 2024 Ultraculture Inc. All rights reserved.
+        </p>
+      </div>
+    </div>
+  </footer>
+  
+</div>
+`;

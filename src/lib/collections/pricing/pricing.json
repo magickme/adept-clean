@@ -1,0 +1,237 @@
+{
+    "courses": [
+      {
+        "id": "adept-1",
+        "name": "The Adept Initiative I",
+        "tiers": [
+          {
+            "name": "Standard",
+            "originalPrice": 64700,
+            "salePrice": 49700,
+            "savings": 15000,
+            "savingsPercent": 23,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979163/adept-initiative-2025-i?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979384/adept-initiative-2025-i?coupon_code=BF2024",
+            "features": [
+              "Full access to core course modules",
+              "Lifetime access",
+              "General community forum access",
+              "Digital Welcome Kit",
+              "Early Access in December"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 16600,
+              "originalPrice": 21600,
+              "savings": 15000
+            },
+            "mostPopular": false
+          },
+          {
+            "name": "Premium",
+            "originalPrice": 84700,
+            "salePrice": 64700,
+            "savings": 20000,
+            "savingsPercent": 24,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979362/adept-initiative-2025-i?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979385/adept-initiative-2025-i?coupon_code=BF2024",
+            "features": [
+              "Everything in Standard",
+              "Advanced modules & bonus rituals",
+              "Live group coaching sessions",
+              "Priority Q&A access",
+              "Bonus Workshop: Magickal Planning 2025",
+              "Private Q&A Session in January"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 21600,
+              "originalPrice": 28300,
+              "savings": 20000
+            },
+            "mostPopular": true
+          },
+          {
+            "name": "VIP",
+            "originalPrice": 129700,
+            "salePrice": 99700,
+            "savings": 30000,
+            "savingsPercent": 23,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979363/adept-initiative-2025-i?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979387/adept-initiative-2025-i?coupon_code=BF2024",
+            "features": [
+              "Everything in Premium",
+              "Two 1-on-1 coaching sessions",
+              "Exclusive live workshops",
+              "Personalized digital talisman",
+              "VIP-only community access",
+              "Priority scheduling",
+              "Exclusive Group Coaching in April 2025"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 33300,
+              "originalPrice": 43300,
+              "savings": 30000
+            },
+            "mostPopular": false
+          }
+        ]
+      },
+      {
+        "id": "adept-2",
+        "name": "The Adept Initiative II",
+        "tiers": [
+          {
+            "name": "Standard",
+            "originalPrice": 74700,
+            "salePrice": 59700,
+            "savings": 15000,
+            "savingsPercent": 21,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979370/adept-initiative-2025-ii?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979398/adept-initiative-2025-ii?coupon_code=BF2024",
+            "features": [
+              "Full access to core course modules",
+              "Lifetime access",
+              "General community forum access",
+              "Digital Welcome Kit",
+              "Early Access in December"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 19900,
+              "originalPrice": 24900,
+              "savings": 15000
+            },
+            "mostPopular": false
+          },
+          {
+            "name": "Premium",
+            "originalPrice": 99700,
+            "salePrice": 79700,
+            "savings": 20000,
+            "savingsPercent": 21,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979372/adept-initiative-2025-ii?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979412/adept-initiative-2025-ii?coupon_code=BF2024",
+            "features": [
+              "Everything in Standard",
+              "Advanced modules & bonus rituals",
+              "Live group coaching sessions",
+              "Priority Q&A access",
+              "Bonus Workshop: Advanced Practices 2025",
+              "Private Q&A Session in February"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 26600,
+              "originalPrice": 33300,
+              "savings": 20000
+            },
+            "mostPopular": true
+          },
+          {
+            "name": "VIP",
+            "originalPrice": 149700,
+            "salePrice": 114700,
+            "savings": 35000,
+            "savingsPercent": 23,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979375/adept-initiative-2025-ii?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979421/adept-initiative-2025-ii?coupon_code=BF2024",
+            "features": [
+              "Everything in Premium",
+              "Two 1-on-1 coaching sessions with Jason Louv",
+              "Exclusive live workshops",
+              "Personalized digital talisman",
+              "VIP-only community access",
+              "Priority scheduling",
+              "Exclusive Group Coaching in April 2025"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 49900,
+              "originalPrice": 61600,
+              "savings": 35000
+            },
+            "mostPopular": false
+          }
+        ]
+      }
+    ],
+    "bundles": [
+      {
+        "id": "adept-bundle",
+        "name": "Complete Adept Initiative Bundle",
+        "tiers": [
+          {
+            "name": "Core Bundle",
+            "originalPrice": 119700,
+            "salePrice": 89700,
+            "savings": 30000,
+            "savingsPercent": 25,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979377/complete-adept-initiative-i-ii-bundle?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979427/complete-adept-initiative-i-ii-bundle?coupon_code=BF2024",
+            "features": [
+              "Standard features of both courses",
+              "Transition workbook",
+              "Early Access in December",
+              "Digital Welcome Kit"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 29900,
+              "originalPrice": 39900,
+              "savings": 30000
+            },
+            "mostPopular": false
+          },
+          {
+            "name": "Premium Bundle",
+            "originalPrice": 169700,
+            "salePrice": 124700,
+            "savings": 45000,
+            "savingsPercent": 26,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979379/complete-adept-initiative-i-ii-bundle?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979430/complete-adept-initiative-i-ii-bundle?coupon_code=BF2024",
+            "features": [
+              "Premium features of both courses",
+              "Additional bonus modules",
+              "Live group coaching for both courses",
+              "Bonus Workshops",
+              "Private Q&A Sessions"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 41600,
+              "originalPrice": 56600,
+              "savings": 45000
+            },
+            "mostPopular": true
+          },
+          {
+            "name": "VIP Bundle",
+            "originalPrice": 249700,
+            "salePrice": 179700,
+            "savings": 70000,
+            "savingsPercent": 28,
+            "checkoutLink": "https://sso.teachable.com/secure/8093/checkout/5979380/complete-adept-initiative-i-ii-bundle?coupon_code=BF2024",
+            "installmentCheckoutLink": "https://sso.teachable.com/secure/8093/checkout/5979431/complete-adept-initiative-i-ii-bundle?coupon_code=BF2024",
+            "features": [
+              "VIP features of both courses",
+              "Four 1-on-1 coaching sessions",
+              "Exclusive masterclasses",
+              "Group coaching in April 2025",
+              "Personalized digital talisman",
+              "VIP-only community & events"
+            ],
+            "installments": {
+              "count": 3,
+              "amount": 59900,
+              "originalPrice": 83300,
+              "savings": 70000
+            },
+            "mostPopular": false
+          }
+        ]
+      }
+    ]
+  }

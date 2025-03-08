@@ -1,0 +1,27 @@
+{
+    "teamMembers": [
+      {
+        "name": "Alice Johnson",
+        "role": "Chief Technology Officer",
+        "bio": "Alice has over 15 years of experience in software development and architecture. She leads our technical strategy and ensures we're always at the cutting edge of technology.",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "xLink": "https://x.com/alicejohnson",
+        "linkedinLink": "https://www.linkedin.com/in/alicejohnson"
+      },
+      {
+        "name": "Bob Smith",
+        "role": "Lead UX Designer",
+        "bio": "Bob is passionate about creating intuitive and beautiful user interfaces. With a background in both design and psychology, he brings a unique perspective to our products.",
+        "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "linkedinLink": "https://www.linkedin.com/in/bobsmith"
+      },
+      {
+        "name": "Carol Martinez",
+        "role": "Senior Full Stack Developer",
+        "bio": "Carol is a full stack wizard with expertise in both front-end and back-end technologies. She's always excited to tackle complex problems and mentor junior developers.",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60",
+        "xLink": "https://x.com/carolmartinez",
+        "linkedinLink": "https://www.linkedin.com/in/carolmartinez"
+      }
+    ]
+  }

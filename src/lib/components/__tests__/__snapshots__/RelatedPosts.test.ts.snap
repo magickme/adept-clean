@@ -1,0 +1,218 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`RelatedPosts > rendering > matches snapshot 1`] = `
+<div>
+  <div
+    class="bg-ivory dark:bg-kohl py-12 sm:py-16"
+    data-testid="RelatedPosts"
+  >
+    <div
+      class="mx-auto max-w-7xl px-6 lg:px-8"
+    >
+      <div
+        class="mx-auto max-w-2xl text-center"
+      >
+        <h2
+          class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl"
+        >
+          Browse related articles
+        </h2>
+      </div>
+       
+      <div
+        class="mx-auto mt-16 grid max-w-2xl auto-rows-fr grid-cols-1 gap-8 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3"
+      >
+        <article
+          class="relative flex flex-col overflow-hidden rounded-lg bg-white dark:bg-gray-800 shadow-lg"
+        >
+          <div
+            class="h-48 w-full overflow-hidden"
+          >
+            <img
+              alt=""
+              class="h-full w-full object-cover"
+              src="/test1.jpg"
+            />
+          </div>
+           
+          <div
+            class="flex flex-1 flex-col justify-between p-6"
+          >
+            <div
+              class="flex-1"
+            >
+              <p
+                class="text-sm font-medium text-cerulean"
+              >
+                <time
+                  datetime="2024-01-01T06:00:00.000Z"
+                >
+                  January 1, 2024
+                </time>
+              </p>
+               
+              <a
+                class="mt-2 block"
+                href="/blog/test-post-1"
+              >
+                <h3
+                  class="text-xl font-semibold text-gray-900 dark:text-white"
+                >
+                  Test Post 1
+                </h3>
+                 
+                <p
+                  class="mt-3 text-base text-gray-500 dark:text-gray-300"
+                >
+                  Test excerpt 1
+                </p>
+              </a>
+            </div>
+             
+            <div
+              class="mt-6 flex items-center"
+            >
+              <div
+                class="flex-shrink-0"
+              >
+                <img
+                  alt="John Doe"
+                  class="h-10 w-10 rounded-full"
+                  src="/author1.jpg"
+                />
+              </div>
+               
+              <div
+                class="ml-3"
+              >
+                <p
+                  class="text-sm font-medium text-gray-900 dark:text-white"
+                >
+                  John Doe
+                </p>
+                 
+                <div
+                  class="flex space-x-1 text-sm text-gray-500 dark:text-gray-400"
+                >
+                  <span>
+                    5 min read
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="absolute bottom-0 right-0 p-2"
+          >
+            <span
+              class="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2"
+            >
+              tag1
+            </span>
+            <span
+              class="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2"
+            >
+              tag2
+            </span>
+            
+          </div>
+        </article>
+        <article
+          class="relative flex flex-col overflow-hidden rounded-lg bg-white dark:bg-gray-800 shadow-lg"
+        >
+          <div
+            class="h-48 w-full overflow-hidden"
+          >
+            <img
+              alt=""
+              class="h-full w-full object-cover"
+              src="/test2.jpg"
+            />
+          </div>
+           
+          <div
+            class="flex flex-1 flex-col justify-between p-6"
+          >
+            <div
+              class="flex-1"
+            >
+              <p
+                class="text-sm font-medium text-cerulean"
+              >
+                <time
+                  datetime="2024-01-02T06:00:00.000Z"
+                >
+                  January 2, 2024
+                </time>
+              </p>
+               
+              <a
+                class="mt-2 block"
+                href="/blog/test-post-2"
+              >
+                <h3
+                  class="text-xl font-semibold text-gray-900 dark:text-white"
+                >
+                  Test Post 2
+                </h3>
+                 
+                <p
+                  class="mt-3 text-base text-gray-500 dark:text-gray-300"
+                >
+                  Test excerpt 1
+                </p>
+              </a>
+            </div>
+             
+            <div
+              class="mt-6 flex items-center"
+            >
+              <div
+                class="flex-shrink-0"
+              >
+                <img
+                  alt="Jane Smith"
+                  class="h-10 w-10 rounded-full"
+                  src="/author2.jpg"
+                />
+              </div>
+               
+              <div
+                class="ml-3"
+              >
+                <p
+                  class="text-sm font-medium text-gray-900 dark:text-white"
+                >
+                  Jane Smith
+                </p>
+                 
+                <div
+                  class="flex space-x-1 text-sm text-gray-500 dark:text-gray-400"
+                >
+                  <span>
+                    10 min read
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="absolute bottom-0 right-0 p-2"
+          >
+            <span
+              class="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 dark:text-gray-300 mr-2 mb-2"
+            >
+              tag3
+            </span>
+            
+          </div>
+        </article>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+`;

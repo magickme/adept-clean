@@ -1,0 +1,39 @@
+{
+    "testimonials": [
+      {
+        "quote": "Amazing and transformational. Not only does Jason present a tremendous amount of information, he also provides his students with the tools they need to expand their knowledge, strengthen their practice, and manifest their true will. I have no doubt that I will be following many of the paths Jason illuminated for me in this class for the rest of my life.",
+        "author": "Charles H.",
+        "handle": "Financial Trader",
+        "imageSrc": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "highlight": true
+      },
+      {
+        "quote": "Truly the most return for the money I have ever gotten. No woo-woo at all... I recommend the school to you if you are ready to give everything and want to discover what it is you want and how to get it. Jason packs the classes with valuable information, and you can wring the juice out of them and into your own life. He really knows magick without being ungrounded or cryptic, and he makes himself available to his students completely and answers questions thoroughly.",
+        "author": "Wes P.",
+        "handle": "@wesP",
+        "imageSrc": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "highlight": false
+      },
+      {
+        "quote": "My experience with Jason Louv as instructor has been amazing and edifying. Not only was the material truly fascinating—but also earthy and applicable to negotiating all manner of life concerns. Information is power—this is the place to be!",
+        "author": "Bonnie L.",
+        "handle": "@bonnieL",
+        "imageSrc": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "highlight": false
+      },
+      {
+        "quote": "Exactly what I needed to get my focus and determination back on track. He really did take all of the knowledge he gained over the years and pulled all the best practices together to help me discover my True Will and get all the negativity and distractions out of my life.",
+        "author": "Josh S.",
+        "handle": "@joshS",
+        "imageSrc": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "highlight": false
+      },
+      {
+        "quote": "The value that Jason Louv has provided... is beyond anything I have seen in the magical community, and in academia thus far. I have been in the education profession for over a decade. The compendium of knowledge and supplementary material that Jason has assembled is only rivaled by the highest echelon of academic providers. The integration of technology; i.e. biofeedback tools, Web-based analytics & blended learning techniques to extend the classroom are all hallmarks of an instructor that understands how to truly integrate the course material into a highly impactful class that benefits from the best tools available... In summary, this course is a steal for the price.",
+        "author": "Drew P.",
+        "handle": "@drewP",
+        "imageSrc": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+        "highlight": false
+      }
+    ]
+  }

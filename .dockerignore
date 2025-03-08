@@ -1,0 +1,17 @@
+.git
+.git/
+.git/**
+.env
+.env.*
+node_modules
+*.log
+.DS_Store
+.vscode
+.idea
+*.mp4
+*.mov
+*.webm
+*.avi
+dist
+build
+coverage

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="%paraglide.lang%" dir="%paraglide.textDirection%">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<!-- Critical CSS -->
+		<style>
+			.video-element {
+				height: 100%;
+				width: 100%;
+				object-fit: cover;
+				object-position: center;
+				opacity: 0.6;
+				transform: translateZ(0);
+				backface-visibility: hidden;
+				will-change: opacity;
+				transition: opacity 0.3s ease;
+			}
+			.content-backdrop {
+				text-align: center;
+				padding: 1.5rem;
+				border-radius: 1rem;
+				background: linear-gradient(135deg, rgba(7, 4, 2, 0.95) 0%, rgba(7, 4, 2, 0.85) 100%);
+				backdrop-filter: blur(12px);
+				box-shadow: 0 4px 40px rgba(7, 4, 2, 0.4);
+			}
+		</style>
+		
+		<!-- Preconnect to critical domains -->
+		<link rel="preconnect" href="https://assets.adept.magick.me" crossorigin />
+		<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link rel="preconnect" href="https://i.pravatar.cc" crossorigin />
+		<link rel="preconnect" href="https://cdn.plyr.io" crossorigin />
+		
+		<!-- DNS prefetch -->
+		<link rel="dns-prefetch" href="https://assets.adept.magick.me" />
+		<link rel="dns-prefetch" href="https://i.pravatar.cc" />
+		<link rel="dns-prefetch" href="https://cdn.plyr.io" />
+		
+		<!-- Base Meta -->
+		<meta name="description" content="%sveltekit.page.data.meta?.description ?? 'Master Your World. Rule Your Reality. Unleash Your True Self.'%">
+		<meta name="author" content="%sveltekit.page.data.meta?.author ?? 'Adept Initiative'%">
+		<meta name="keywords" content="%sveltekit.page.data.meta?.keywords ?? 'magick, occult, adept initiative, spiritual training'%">
+		
+		<!-- Open Graph -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="%sveltekit.url.href%">
+		<meta property="og:title" content="%sveltekit.page.data.meta?.title ?? 'Adept Initiative'%">
+		<meta property="og:description" content="%sveltekit.page.data.meta?.description ?? 'Master Your World. Rule Your Reality. Unleash Your True Self.'%">
+		<meta property="og:image" content="%sveltekit.page.data.meta?.image ?? '/path/to/default-og-image.jpg'%">
+		
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:url" content="%sveltekit.url.href%">
+		<meta name="twitter:title" content="%sveltekit.page.data.meta?.title ?? 'Adept Initiative'%">
+		<meta name="twitter:description" content="%sveltekit.page.data.meta?.description ?? 'Master Your World. Rule Your Reality. Unleash Your Self.'%">
+		<meta name="twitter:image" content="%sveltekit.page.data.meta?.image ?? '/path/to/default-og-image.jpg'%">
+		
+		%sveltekit.head%
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+		%sveltekit.assets%
+	</body>
+</html>

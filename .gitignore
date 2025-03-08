@@ -1,0 +1,31 @@
+test-results
+node_modules
+
+# Output
+.output
+.vercel
+/.svelte-kit
+/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+# Large media files
+*.mov
+*.mp4
+*.webm
+*.wav
+*.gif
+
+# Screenshots
+/screenshots/

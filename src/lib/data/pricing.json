@@ -1,0 +1,207 @@
+{
+  "courses": [
+    {
+      "id": "adept-1",
+      "name": "The Adept Initiative I",
+      "tiers": [
+        {
+          "name": "Standard",
+          "originalPrice": 64700,
+          "salePrice": 49700,
+          "savings": 15000,
+          "savingsPercent": 23,
+          "features": [
+            "Full access to core course modules",
+            "Lifetime access",
+            "General community forum access",
+            "Digital Welcome Kit",
+            "Early Access in December",
+            "Ritual templates and guides"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 16600
+          },
+          "mostPopular": false
+        },
+        {
+          "name": "Premium",
+          "originalPrice": 84700,
+          "salePrice": 64700,
+          "savings": 20000,
+          "savingsPercent": 24,
+          "features": [
+            "Everything in Standard",
+            "Advanced modules & bonus rituals",
+            "Live group coaching sessions",
+            "Priority Q&A access",
+            "Bonus Workshop: Magickal Planning 2024",
+            "Private Q&A Session in January"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 21600
+          },
+          "mostPopular": true
+        },
+        {
+          "name": "VIP",
+          "originalPrice": 129700,
+          "salePrice": 99700,
+          "savings": 30000,
+          "savingsPercent": 23,
+          "features": [
+            "Everything in Premium",
+            "Two 1-on-1 coaching sessions",
+            "Exclusive live workshops",
+            "Personalized digital talisman",
+            "VIP-only community access",
+            "Exclusive Group Coaching in April 2024"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 33300
+          },
+          "mostPopular": false
+        }
+      ]
+    },
+    {
+      "id": "adept-2",
+      "name": "The Adept Initiative II",
+      "tiers": [
+        {
+          "name": "Standard",
+          "originalPrice": 74700,
+          "salePrice": 59700,
+          "savings": 15000,
+          "savingsPercent": 20,
+          "features": [
+            "Full access to advanced course modules",
+            "Lifetime access",
+            "Advanced community discussions",
+            "Digital Welcome Kit",
+            "Early Access in December",
+            "Ceremonial magic templates"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 19900
+          },
+          "mostPopular": false
+        },
+        {
+          "name": "Premium",
+          "originalPrice": 99700,
+          "salePrice": 79700,
+          "savings": 20000,
+          "savingsPercent": 20,
+          "features": [
+            "Everything in Standard",
+            "Bonus rituals and meditations",
+            "Live online group coaching sessions",
+            "Exclusive community access",
+            "Bonus Workshop: Magickal Planning 2024",
+            "Private Q&A Session in January"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 26600
+          },
+          "mostPopular": true
+        },
+        {
+          "name": "VIP",
+          "originalPrice": 149700,
+          "salePrice": 114700,
+          "savings": 35000,
+          "savingsPercent": 23,
+          "features": [
+            "Everything in Premium",
+            "Two personalized 1-on-1 coaching sessions",
+            "Exclusive advanced workshops",
+            "Personalized digital talisman",
+            "VIP-only events and priority scheduling",
+            "Exclusive Group Coaching in April 2024"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 38200
+          },
+          "mostPopular": false
+        }
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "id": "adept-bundle",
+      "name": "Complete Adept Initiative Bundle",
+      "tiers": [
+        {
+          "name": "Core Bundle",
+          "originalPrice": 119700,
+          "salePrice": 89700,
+          "savings": 30000,
+          "savingsPercent": 25,
+          "features": [
+            "Standard features of both courses",
+            "Transition workbook between courses",
+            "Early Access in December",
+            "Digital Welcome Kit",
+            "Ritual templates and meditation guides",
+            "Goal-setting worksheets",
+            "Participation in advanced community discussions"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 29900
+          },
+          "mostPopular": false
+        },
+        {
+          "name": "Premium Bundle",
+          "originalPrice": 169700,
+          "salePrice": 124700,
+          "savings": 45000,
+          "savingsPercent": 26,
+          "features": [
+            "Premium features of both courses",
+            "Additional bonus modules",
+            "Live group coaching for both courses",
+            "Bonus Workshop: Magickal Planning 2024 in February",
+            "Private Q&A Sessions",
+            "Priority Q&A access",
+            "Exclusive community access for both courses"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 41600
+          },
+          "mostPopular": true
+        },
+        {
+          "name": "VIP Bundle",
+          "originalPrice": 249700,
+          "salePrice": 179700,
+          "savings": 70000,
+          "savingsPercent": 28,
+          "features": [
+            "VIP features of both courses",
+            "Four personalized 1-on-1 coaching sessions",
+            "Exclusive masterclasses",
+            "Group coaching in April 2024",
+            "Personalized digital talisman",
+            "VIP-only community & events",
+            "Advanced Ceremonial Magic Workshop Series"
+          ],
+          "installments": {
+            "count": 3,
+            "amount": 59900
+          },
+          "mostPopular": false
+        }
+      ]
+    }
+  ]
+} 

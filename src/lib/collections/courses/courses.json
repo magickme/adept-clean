@@ -1,0 +1,467 @@
+{
+    "courses": [
+      {
+        "id": 705099,
+        "name": "Magick.Me:<br />The Adept Initiative I & II",
+        "slug": "adept-initiative",
+        "link": "/p/adept-initiative",
+        "heading": "Free Yourself Spiritually. Free Yourself Materially. Free Yourself to Live Your Passion.<br /><br /><em>Adept Initiative I: January 6 - February 14, 2025.<br />Adept Initiative II: March 16 - April 25, 2025.</em>",
+        "description": "This first-of-its-kind Megacourse leverages the greatest spiritual tools available to humanity to liberate, empower and awaken you to your innate freedom and true purpose in life—and provisions you with the tools you need to fulfill that purpose. Now. No New Age silliness. No wishful thinking. No dogma. Just raw, effective technique, backed by science and practical experience.",
+        "image_url": "https://example.com/path-to-your-hero-image.jpg",
+        "author": "Jason Louv",
+        "author_image": "/src/lib/assets/images/authors/sample.jpeg",
+        "skill_level": "Advanced",
+        "duration": "12 months",
+        "tags": ["magick", "advanced", "transformation"],
+        "hero": {
+          "announcement": "Limited Time: Join the Ultimate Mega-Training in Real World Results Magick",
+          "linkOneUrl": "#pricing",
+          "linkOneText": "Enroll Now",
+          "linkTwoUrl": "#video",
+          "linkTwoText": "Watch the Preview"
+        },
+        "upsell": {
+          "text": "Like you, I live in the real world—not some far-off, wishful-thinking paradise. The first step of spiritual liberation is material and financial liberation. You can't effectively meditate, let alone help anybody, if you're worried about keeping the lights on. That's why this course gets you financially free first.",
+          "link": "#pricing"
+        },
+        "topThree": {
+          "title": "The Adept Initiative is back. And it's better than ever.",
+          "subtitle": "Two Life-Changing Programs, One Ultimate Goal: Your Total Transformation",
+          "description": "Join us for a completely revamped, updated version of our most powerful course ever, taught live online from January to April 2025. Whether you're new or returning, this is an entirely new experience designed to reconnect you with your true self and give you the tools for real-world mastery.",
+          "features": [
+            {
+              "name": "ADEPT INITIATIVE I: MASTER THE PHYSICAL WORLD",
+              "description": "Learn to master the physical world through financial techniques and powerful tools that have helped many students achieve wealth and success. Get everything you need to become a real magician, while building a solid foundation for your life.",
+              "icon": "🌍"
+            },
+            {
+              "name": "ADEPT INITIATIVE II: MASTER THE SPIRITUAL WORLD",
+              "description": "Experience deep spiritual mastery through astral excursions to all Sephiroth and paths on the Tree of Life. Learn advanced ceremonial magic methods to explore and master the magical world, with techniques rarely offered to the public.",
+              "icon": "✨"
+            },
+            {
+              "name": "LIVE INTERACTIVE EXPERIENCE & COMMUNITY",
+              "description": "Get daily video lessons, live Q&As, and join our private community platform. Connect with practitioners worldwide, get personalized guidance (VIP level), and learn at your own pace with lifetime access to all materials.",
+              "icon": "🎯"
+            }
+          ]
+        },
+        "promoVideo": {
+          "title": "Get a Glimpse into Your Transformational Journey",
+          "subtitle": "Watch the course preview and see what awaits you in The Adept Initiative I & II.",
+          "videoUrl": "https://pub-d1204a6a488440efbe4cd01dd5f68840.r2.dev/jason-edit-web.mp4"
+        },
+        "cards": {
+          "title": "Comprehensive Curriculum",
+          "description": "Two Powerful Programs for Complete Transformation",
+          "units": [
+            {
+              "icon": "🌟",
+              "name": "Adept I: Module 1 - Awakening the Inner Adept",
+              "description": "At the outset of the work, the student will begin to build their elemental circle (with inner Tao), select its location, prepare ritual garments, acquire elemental tools and record, and select a magical name and motto for the duration of the course. Next, the aspirant will begin to master their physical health and vitality, definitively build their map of the universe and their place in it, and solidly root and anchor themselves within life. They will master their finances, designing the next steps for their career and implementing long-term strategies for both active and passive wealth creation. They will also begin to employ the strategies of practical magic to achieve their goals, including visualization, trance induction, astral work and lucid dreaming.",
+              "skills_unlocked": ["Financial Mastery", "Physical Vitality", "Goal Setting", "Visualization", "Trance Work"]
+            },
+            {
+              "icon": "🧘",
+              "name": "Adept I: Module 2 - Building the Foundation",
+              "description": "At the outset of the work, the student will begin to build their elemental circle (with inner Tao), select its location, prepare ritual garments, acquire elemental tools and record, and select a magical name and motto for the duration of the course. Next, the aspirant will begin to master their physical health and vitality, definitively build their map of the universe and their place in it, and solidly root and anchor themselves within life. They will master their finances, designing the next steps for their career and implementing long-term strategies for both active and passive wealth creation. They will also begin to employ the strategies of practical magic to achieve their goals, including visualization, trance induction, astral work and lucid dreaming.",
+              "skills_unlocked": ["Critical Thinking", "Emotional Control", "Raja Yoga", "Self-Analysis", "Physical Mastery"]
+            },
+            {
+              "icon": "⚡",
+              "name": "Adept I: Module 3 - Harmonizing Inner & Outer Worlds",
+              "description": "While the aspirant will have been working on their rational and logic mind in Air, here they will deepen their ability to immerse themselves in their intuitive faculties. To do so, they will gain a mastery of trance and visionary state induction, and work with ancient divinatory systems like the Tarot and I Ching to build a bridge to their non-linguistic, intuitive mind. Here they will also begin getting into the “hard coding” of their life, reviewing the heady world of past lives, karma and astrological templating.",
+              "skills_unlocked": ["Intuition", "Divination", "Trance States", "Past Life Work", "Karmic Insight"]
+            },
+            {
+              "icon": "🎯",
+              "name": "Adept I: Module 4 - Mastery of Mind and Energy",
+              "description": "With new understanding of self gained, the aspirant will now clearly and definitively state their ultimate Will for their life, and massively strengthen their daily reserve of willpower and decisiveness. And unlike other systems, which completely overlook this step, they will also learn how to both check that this Will is congruent with their deep psychology and their environment, but they will also learn to bind the opposite, as no force can be invoked without also invoking its equal and opposing force. We will also do immense work on resolving internal conflicts—the competing desires that produce self-sabotage—so that the road forward opens and remains open. Now, at last, we will put the full heft of magical, mystical and gnostic techniques into manifesting your Will into reality. Finally, and most importantly, we assess the role of relationship, and conscious relationships as the most important spiritual practice of all.",
+              "skills_unlocked": ["Willpower", "Self Integration", "Manifestation", "Relationship Mastery", "Conflict Resolution"]
+            },
+            {
+              "icon": "✨",
+              "name": "Adept I: Module 5 - Integration and Transformation",
+              "description": "With the four elements now working properly as a balanced wheel carrying you forward into the future, we will now work on techniques for linking your temporal personality with your transcendent, spiritual self, your Self Beyond Self, that which lies beyond the small-s self. To do so, we will combine all previous techniques and accelerate them with the higher rungs of yoga—Pratyahara, Dharana, Dhyana and Samadhi—allowing you to make your life singularly focused and spiritualized.",
+              "skills_unlocked": ["Meditation", "Spiritual Connection", "Advanced Yoga", "Life Purpose", "Self Transcendence"]
+            },
+            {
+              "icon": "🔮",
+              "name": "Adept II: Module 1 - The Ceremonial Journey",
+              "description": "Access the transformative power of ceremonial magic through our comprehensive system. Master the use of magical tools and symbols, learn essential safety protocols, and enhance your sacred space for advanced work. Includes our exclusive guide to ethical power cultivation that protects while you progress.",
+              "skills_unlocked": ["Ritual Construction", "Energy Protection", "Ceremonial Magic", "Tool Mastery", "Sacred Space"]
+            },
+            {
+              "icon": "🌌",
+              "name": "Adept II: Module 2 - Navigating Astral Planes",
+              "description": "Master safe and effective astral projection with our proven methodology. Develop powerful visualization abilities, learn essential protection techniques, and map the inner planes with confidence. Includes our comprehensive astral safety system and integration practices for bringing back valuable insights.",
+              "skills_unlocked": ["Astral Projection", "Temple Building", "Inner Plane Navigation", "Entity Interaction", "Visualization"]
+            },
+            {
+              "icon": "🗝️",
+              "name": "Adept II: Module 3 - The Pathworking Paradigm",
+              "description": "Access the transformative power of magical pathworking through our structured system. Master the language of symbols and archetypes, experience guided inner journeys, and learn advanced interpretation techniques. This module provides the keys to profound personal transformation.",
+              "skills_unlocked": ["Path Working", "Tree of Life", "Hebrew Letters", "Talisman Creation", "Archetypal Forces"]
+            },
+            {
+              "icon": "⚔️",
+              "name": "Adept II: Module 4 - Mastery of Ceremonial Practices",
+              "description": "Design and execute powerful magical ceremonies with confidence. Master elemental and planetary forces, learn advanced evocation and invocation techniques, and develop expertise in energy raising and direction. Includes our proven system for ethical manifestation.",
+              "skills_unlocked": ["Spirit Evocation", "Divine Names", "Planetary Magic", "Angelic Contact", "Ritual Design"]
+            },
+            {
+              "icon": "👑",
+              "name": "Adept II: Module 5 - Integration and Ascension",
+              "description": "Create your unique magical framework synthesizing all advanced practices. Develop long-term mastery plans, learn leadership skills for guiding others, and participate in our powerful graduation ritual. Emerge as a fully empowered magical practitioner ready to shape reality.",
+              "skills_unlocked": ["Advanced Ritual", "Egregore Work", "Supernal Magic", "Group Ceremony", "Independent Practice"]
+            }
+          ]
+        },
+        "testimonials": [
+          {
+            "quote": "I feel that with this course, I have found and built an objective foundation for positive thinking that makes sense and is practical and doesn't feel like a coping mechanism or wishful thinking. I have been able to recognize when I do not pay attention, or disassociate. My conversations are better. I work more effectively. I do not overwhelm and shut down like I used to. My habits are far more positive. The mental states I am reaching are sublime in my most mundane moments of the day. I feel people are opening up more, because I am far less guarded, and open up more myself. I have dealt with some of the most debilitating anxiety and claustrophobia for a while, but most certainly these past three years. These tools you have provided have been the only effective thing to not only stop these episodes, but prevent them entirely. Make no mistake, you are saving lives with this school. Negativity in my life has become malleable, instead of a death sentence. I love what I have learned, and only regret that the course is over. You will be seeing my name in future courses guaranteed. I cannot thank you enough. I really feel that I struck gold. Exceptionally happy and grateful for this material. Thank you.",
+            "author": "Shea A.",
+            "title": "",
+            "avatar": "https://i.pravatar.cc/40?u=shea_anderson"
+          },
+          {
+            "quote": "The pre-course publicity for The Adept Initiative said something like \"this course will change your life\". I read it and laughed and thought, yeah, great marketing. Can you guess what happened next? I started the course, and by day two it had already changed my life. So don't hesitate to sign up for Jason's courses. He keeps his promises.",
+            "author": "MF",
+            "title": "Writer",
+            "avatar": "https://i.pravatar.cc/40?u=mf_writer"
+          },
+          {
+            "quote": "Truly the most return for the money I have ever gotten. No woo-woo at all, just hours of disciplined activity, focused effort and hard questions to ask and answer yourself. I recommend the school to you if you are ready to give everything and want to discover what it is you want and how to get it. Jason packs the classes with valuable information and you can wring the juice out of them and into your own life. He really knows magick without being ungrounded or cryptic, and he makes himself available to his students completely and answers questions thoroughly. This class is especially useful to artists, musicians and anyone who has to blaze their own trail. Or anyone that wants to get to the core of their reality.",
+            "author": "Christian",
+            "title": "Electrician",
+            "avatar": "https://i.pravatar.cc/40?u=christian_electrician"
+          },
+          {
+            "quote": "I am a professional musician and business owner, and can say without a doubt that The Adept Initiative has truly changed my life. Taking this class has been one of the best decisions I have made for my life in recent memory. I especially appreciate the straightforward, no bullshit delivery Jason gives with each and every unit. I have been floundering in occult practice for a few years now, hungry for spiritual growth, yet missing the target continually. Well now, through this class, I have found my aim.",
+            "author": "Daniel P.",
+            "title": "Musician and Business Owner",
+            "avatar": "https://i.pravatar.cc/40?u=daniel_peterson"
+          },
+          {
+            "quote": "The Adept Initiative Course blew my mind. Jason went above and beyond in this course, and I can't recommend going on this journey enough! At the start of this course, I was stuck in an apartment I didn't want to be in and work that wasn't fulfilling. At the end of six weeks I was able to move out and find a new beautiful apartment, and expanded my business to something that now fills my heart. Thank you for all your hard work and effort. It is treasured.",
+            "author": "Brian G.",
+            "title": "Teacher and Mindset Coach",
+            "avatar": "https://i.pravatar.cc/40?u=brian_gershater"
+          },
+          {
+            "quote": "This course is the best value for dollar purchase I've ever made. Buying the Adept Initiative was like paying for a cheap plane ticket only to find yourself on a first class rocketship ride that changes you as a person. The content is easily understood and a joy to watch. It is magick grounded in history, made practical. The course as a whole is the closest thing I've had to a reality warping experience without drugs. If you have an interest in any of the material in the Adept Initiative, it will deliver beyond your expectations and more. Cannot recommend it enough.",
+            "author": "Joseph C.",
+            "title": "Personal Trainer",
+            "avatar": "https://i.pravatar.cc/40?u=joseph_campbell"
+          },
+          {
+            "quote": "The Adept Initiative radically altered my life and sparked spiritual growth! Jason guides students through this profound collection of occult teachings, texts and exercises working towards personal empowerment, deep reflection, alignment and balance within interior and exterior worlds! This course has renewed my passion and vigor for life, art and creation and has refocused every aspect of my life towards living my True Will! I would recommend this course to anyone seeking enlightenment, growth or direction in life. Jason lays a framework for every adept to take charge of their own path and make real and lasting change! I am so grateful for this course and for Jason Louv, master magician, sage and scholar.",
+            "author": "Bjorn O.",
+            "title": "Artist and Maker",
+            "avatar": "https://i.pravatar.cc/40?u=bjorn_olsen"
+          },
+          {
+            "quote": "As a young adult, Jason gave me the resources and techniques to truly grow as a person on my unique spiritual path. The information was given in a direct manner with all of the necessary preliminaries, true compassion, and the ultimate pursuit of the deepest truths as he knows them. I am truly privileged to have been given these tools so close to the start of my path. Forever grateful.",
+            "author": "Landen W.",
+            "title": "Full-time student",
+            "avatar": "https://i.pravatar.cc/40?u=landen_wood"
+          },
+          {
+            "quote": "The Adept Initiative absolutely revitalized my life. Everything from my meditation to my finances and even the way I paint has completely turned on its head for the better. I feel grounded. Rooted. Energized. My interactions with people have shifted. My willpower has increased astronomically. I listen better. I know what to say and when to say it. I know silence in all things. Take this course. Listen to the lectures. Do ALL the daily and weekly exercises. Buy a meditation bench! Commit 100%, and It will change you on a fundamental level.",
+            "author": "Andrés Z.",
+            "title": "Artist",
+            "avatar": "https://i.pravatar.cc/40?u=andres_zighelboim"
+          },
+          {
+            "quote": "Cut through the unnecessary and remove the excess. This class allows you to see clearly and think lucidly about why and for what are you here. I've walked in the general direction aimlessly for quite sometime but only after this course, this instruction, this lesson, was I actually able to walk on the narrow dedicated path towards fulfillment. Truly if you feel scattered or want to find your purpose, this class is it. Jason provides world class instruction and only teaches what works. No fluff.",
+            "author": "Jose",
+            "title": "Medical",
+            "avatar": "https://i.pravatar.cc/40?u=jose_medical"
+          },
+          {
+            "quote": "I laughed, I cried, and at some point during the course I suddenly realized that my life can and will never be the same, as a direct result of Jason Louv's highly opinionated and not-fucking-around introduction to magic. Do your self (and the world) a favor, sign up already!",
+            "author": "George T.",
+            "title": "",
+            "avatar": "https://i.pravatar.cc/40?u=george_tang"
+          },
+          {
+            "quote": "The course is an excellent primer for anyone interested in magick and self mastery. If you do the work and hold yourself to being honest, you will have no choice but to make progress in every aspect of your life. It's been like a thunderbolt to my development.",
+            "author": "Anthony B.",
+            "title": "",
+            "avatar": "https://i.pravatar.cc/40?u=anthony_becker"
+          },
+          {
+            "quote": "Just finished the last lesson. I felt compelled to make this post. The value that Jason Louv has provided in this course is beyond anything I have seen in the magical community, and in academia thus far. I have been in the training and education profession for over a decade. The compendium of knowledge and supplementary material that Jason has assembled is only rivaled by the highest echelon of academic providers. The integration of technology; I.e. biofeedback tools, web based analytics, and Ubiquitous/Blended Learning techniques to extend the classroom beyond the traditional setting are all hallmarks of an instructor that understands how to truly integrate the course material into a highly impactful class which benefits from the best technological tools available. Beyond that, the amount of contact hours, time on required tasks, and availability for student question and answer sessions should not be taken for granted. In summary, this course is a steal for the price and I will whole heartedly sign up for the follow on. Love and good Magick all.",
+            "author": "Drew P",
+            "title": "",
+            "avatar": "https://i.pravatar.cc/40?u=drew_p"
+          },
+          {
+            "quote": "This course assisted me to gain better traction on my life via clear and direct constructive methods.",
+            "author": "Sarel",
+            "title": "Property Manager",
+            "avatar": "https://i.pravatar.cc/40?u=sarel_manager"
+          },
+          {
+            "quote": "This course assisted me to gain better traction on my life via clear and direct constructive methods.",
+            "author": "Heather Nichols",
+            "title": "(Not Provided)",
+            "avatar": "https://i.pravatar.cc/40?u=heather_nichols"
+          }
+        ],        
+        "curriculum_head": {
+          "prehead": "What You'll Learn",
+          "title": "I bring you fire.",
+          "description": "This course takes the Western esoteric training systems of the past and updates them for the hyperconnected, disintegrative 21st century. Rather than lament this change, I have chosen to make full use of its capabilities to provide the best possible quality esoteric instruction to the greatest possible number of students—students who can meet and practice together virtually from all over the entire planet, a truly unprecedented situation never before possible at any other time in world history."
+        },
+        "curriculum_features": [
+          {
+            "name": "Waking Up",
+            "description": "How to wake up, liberate yourself both spiritually and financially, and become a change agent"
+          },
+          {
+            "name": "Self-Empowerment",
+            "description": "You'll get the best tools in the world for self-empowerment, mastering your life, and achieving spiritual fulfillment—in any environment, no matter what the condition of the world is"
+          },
+          {
+            "name": "Brain Change",
+            "description": "How to enhance your intelligence and daily joy with the most potent brain change techniques of Eastern yoga and Western mysticism"
+          },
+          {
+            "name": "Survival Skills",
+            "description": "How to not only survive our chaotic and fragmented world, but thrive in it. (A task that will only get harder with the coming of automation, massive job loss and economic recession. Are you prepared?)"
+          },
+          {
+            "name": "Leadership & Influence",
+            "description": "How to become a competent and empowered leader, and chart a course for yourself and others in a rudderless world with no working maps or models"
+          },
+          {
+            "name": "Karmic Overhaul",
+            "description": "How to free yourself by reducing your karmic footprint—stopping what goes around so that it doesn't come around"
+          }
+        ],
+        "features": [
+          "Master Advanced Magickal Practices—Move beyond basics and delve into advanced rituals and ceremonies",
+          "Personal Growth and Self-Mastery—Transform internal blocks into strengths and achieve profound personal growth",
+          "Exclusive Community Access—Network with elite practitioners and build lasting magickal connections",
+          "Lifetime Access and Continuous Updates—Enjoy lifetime access to course materials with free updates",
+          "Certification and Accreditation—Receive official certification upon completion, recognized by leading institutions"
+        ],
+          "featured_teacher": {
+            "title": "Meet Your Guide: Jason Louv",
+            "description": "<p>An experienced explorer of consciousness ready to ignite your transformation.</p><br /><p><em><strong>One of humanity's best mutant scouts on the frontiers of human experience.</strong></em></p><p><em>– R. U. Sirius, counterculture legend</em></p><br /><p><em><strong>Jason Louv [is] in the top tier of new esoteric writers.</strong></em></p><p><em>– Brendan McCarthy, artist, designer and cowriter of <strong>Mad Max: Fury Road</strong></em></p>",
+            "name": "Jason Louv",
+            "role": "Author, Teacher, and Modern Magus",
+            "bio": "<p>Jason Louv is a bestselling author and spiritual educator with over 25 years of experience delving into the world's sacred traditions. From Eastern enlightenment practices to Western magick, Jason has immersed himself in diverse paths to uncover what truly empowers and transforms lives.</p><p>Not just a theorist, Jason has walked the walk. He's distilled his vast knowledge into practical teachings, stripping away superstition to deliver effective tools for personal evolution. His work has been featured in the <em>Tetragrammaton With Rick Rubin</em>, <em>Duncan Trussell Family Hour</em> and <em>Team Human With Douglas Rushkoff</em> podcasts, <em>Smithsonian Magazine</em>, <em>VICE Creators Project</em>, <em>Dazed Digital</em>, and even the #1 Netflix show <em>The Midnight Gospel</em>.</p><p>Jason isn't about being a guru on a pedestal. He's a fellow traveler who understands the struggles and triumphs of the transformative journey. His mission is to equip you with the spiritual technologies needed to unlock your highest potential and navigate the complexities of modern life with clarity and purpose.</p>",
+            "image": "https://assets.adept.magick.me/jason-louv.webp",
+            "x_link": "https://x.com/jasonlouv",
+            "linkedin_link": "https://www.linkedin.com/in/jasonlouv"
+          },
+          "charity_donation": {
+            "visible": true,
+            "title": "Transform Yourself, Transform the World",
+            "description": "10% of your enrollment will be donated to the Polaris Project, combating human trafficking and modern-day slavery.",
+            "image": "src/lib/assets/images/polaris.png",
+            "link": "https://polarisproject.org/"
+          },
+        "pricing_plans": [
+          {
+            "slug": "adept-basic",
+            "id": 3000001,
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z",
+            "name": "Standard Access - $497",
+            "description": "Access to all core modules (1-10), Standard support and resources, Community forum access",
+            "price": 49700,
+            "currency": "USD",
+            "course_id": 2000001,
+            "free_trial_length": null,
+            "most_popular": false,
+            "features": [
+              "Core course modules",
+              "Lifetime access",
+              "Community forum access"
+            ]
+          },
+          {
+            "slug": "adept-premium",
+            "id": 3000002,
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z",
+            "name": "Premium Access - $647",
+            "description": "Includes group coaching and bonus modules",
+            "price": 64700,
+            "currency": "USD",
+            "course_id": 2000001,
+            "free_trial_length": null,
+            "most_popular": true,
+            "features": [
+              "Core course modules",
+              "Group coaching sessions",
+              "Priority Q&A access"
+            ]
+          },
+          {
+            "slug": "adept-vip",
+            "id": 3000003,
+            "created_at": "2024-01-01T00:00:00Z",
+            "updated_at": "2024-01-01T00:00:00Z",
+            "name": "VIP Access - $997",
+            "description": "Get exclusive 1-on-1 coaching and personalized tools",
+            "price": 99700,
+            "currency": "USD",
+            "course_id": 2000001,
+            "free_trial_length": null,
+            "most_popular": false,
+            "features": [
+              "All Premium features",
+              "1-on-1 coaching sessions",
+              "Personalized sigils or talismans"
+            ]
+          }
+        ],
+        "related_courses": [
+          {
+            "id": 10683,
+            "name": "Introduction to Chaos Magick",
+            "slug": "chaos-magick",
+            "image_url": "https://example.com/path-to-chaos-magick-image.jpg",
+            "tags": [
+              "magick"
+            ]
+          },
+          {
+            "id": 10687,
+            "name": "Advanced Chaos Magick",
+            "slug": "advanced-chaos-magick",
+            "image_url": "https://example.com/path-to-advanced-chaos-magick-image.jpg",
+            "tags": [
+              "magick"
+            ]
+          },
+          {
+            "id": 1846436,
+            "name": "Mastering Meditation",
+            "slug": "mastering-meditation",
+            "image_url": "https://example.com/path-to-mastering-meditation-image.jpg",
+            "tags": [
+              "meditation"
+            ]
+          }
+        ],
+        "related_posts": [
+          {
+            "slug": "thriving-in-chaos",
+            "feature_image": "https://example.com/thriving-in-chaos.jpg",
+            "published_at": "2024-04-15T10:00:00Z",
+            "title": "Thriving in Chaos: Strategies for Success in Turbulent Times",
+            "excerpt": "Discover powerful techniques to navigate and excel in chaotic environments, turning crisis into opportunity.",
+            "reading_time": 8,
+            "author": {
+              "name": "Jason Louv",
+              "profile_image": "/src/lib/assets/images/authors/sample.jpeg"
+            },
+            "tags": [
+              "chaos",
+              "personal growth"
+            ]
+          },
+          {
+            "slug": "alchemical-transformation",
+            "feature_image": "https://example.com/alchemical-transformation.jpg",
+            "published_at": "2024-03-22T14:30:00Z",
+            "title": "The Art of Alchemical Transformation in Daily Life",
+            "excerpt": "Learn how to apply ancient alchemical principles to transform your everyday challenges into golden opportunities.",
+            "reading_time": 6,
+            "author": {
+              "name": "Jason Louv",
+              "profile_image": "/src/lib/assets/images/authors/sample.jpeg"
+            },
+            "tags": [
+              "alchemy",
+              "transformation"
+            ]
+          }
+        ],
+        "curriculum_sections": [
+          {
+            "title": "The Adept Initiative I:\nFoundation of Power",
+            "description": "Master the core elements of Western magick, updated for the digital age. This isn't your grandfather's mystery school—it's a cutting-edge fusion of ancient wisdom and modern technology. You'll master the elemental forces that shape your life, following the legendary training systems of the Golden Dawn and Franz Bardon, but turbocharged for the 21st century. Connect with fellow initiates worldwide in our virtual temple, and transform your life from the ground up.",
+            "cards": {
+              "units": [
+                {
+                  "icon": "🌟",
+                  "name": "Module 1: Awakening the Inner Adept",
+                  "description": "Build your magical foundation from the ground up. Create your elemental circle, choose your magical name, and establish your sacred space. Master practical techniques for physical vitality, financial abundance, and life mastery. Learn visualization, trance work, and astral projection to achieve your goals with surgical precision.",
+                  "skills_unlocked": ["Financial Mastery", "Physical Vitality", "Goal Setting", "Visualization", "Trance Work"]
+                },
+                {
+                  "icon": "🧘",
+                  "name": "Module 2: Building the Foundation",
+                  "description": "Strip away what doesn't serve you. Master authentic Raja Yoga from initiatory Vedic and Tibetan sources—not the watered-down gym variety. Develop razor-sharp critical thinking to cut through spiritual BS. Perfect your control over body and emotions through advanced Asana and Pranayama practices.",
+                  "skills_unlocked": ["Critical Thinking", "Emotional Control", "Raja Yoga", "Self-Analysis", "Physical Mastery"]
+                },
+                {
+                  "icon": "⚡",
+                  "name": "Module 3: Harmonizing Inner & Outer Worlds",
+                  "description": "Dive deep into your intuitive powers. Master trance and visionary states while learning ancient divination systems like Tarot and I Ching. Explore past lives, karma, and astrological influences to understand your soul's blueprint and rewrite your destiny.",
+                  "skills_unlocked": ["Intuition", "Divination", "Trance States", "Past Life Work", "Karmic Insight"]
+                },
+                {
+                  "icon": "🎯",
+                  "name": "Module 4: Mastery of Mind and Energy",
+                  "description": "Discover and manifest your True Will. Learn to resolve internal conflicts and eliminate self-sabotage. Master advanced magical and mystical techniques for reality manipulation. Transform your relationships into powerful spiritual catalysts for growth.",
+                  "skills_unlocked": ["Willpower", "Self Integration", "Manifestation", "Relationship Mastery", "Conflict Resolution"]
+                },
+                {
+                  "icon": "✨",
+                  "name": "Module 5: Integration and Transformation",
+                  "description": "Unite your temporal and transcendent selves through advanced yogic practices—Pratyahara, Dharana, Dhyana, and Samadhi. Transform your entire life into a focused spiritual operation, achieving states of consciousness beyond ordinary reality.",
+                  "skills_unlocked": ["Meditation", "Spiritual Connection", "Advanced Yoga", "Life Purpose", "Self Transcendence"]
+                }
+              ]
+            }
+          },
+          {
+            "title": "The Adept Initiative II:\nAdvanced Mastery",
+            "description": "Enter the heart of Western ceremonial magic. Master the Tree of Life through direct experience, working with divine forces and spirits in a structured, safe environment. Learn advanced ritual techniques previously reserved for high-degree initiates, while being guided through the cosmic architecture itself. This isn't theoretical study—it's hands-on training in high magic, combining group ceremony with individual practice.",
+            "cards": {
+              "units": [
+                {
+                  "icon": "🔮",
+                  "name": "Module 1: Foundations of High Magic",
+                  "description": "Set up your advanced magical workspace and master core ceremonial tools. Learn Golden Dawn-style circle casting, banishing rituals, and protection techniques. Develop your subtle energy body and strengthen your aura for advanced operations.",
+                  "skills_unlocked": ["Ritual Construction", "Energy Protection", "Ceremonial Magic", "Tool Mastery", "Sacred Space"]
+                },
+                {
+                  "icon": "🌌",
+                  "name": "Module 2: The Art of Astral Temple Craft",
+                  "description": "Master astral projection and inner plane navigation. Build your astral temple as a permanent base for magical operations. Learn to interact safely with entities while maintaining awareness across multiple reality levels.",
+                  "skills_unlocked": ["Astral Projection", "Temple Building", "Inner Plane Navigation", "Entity Interaction", "Visualization"]
+                },
+                {
+                  "icon": "🗝️",
+                  "name": "Module 3: Paths of Power",
+                  "description": "Journey through the Tree of Life via structured pathworking. Master Hebrew letters, elemental forces, and planetary energies. Create talismans and forge relationships with archetypal forces while maintaining solid grounding practices.",
+                  "skills_unlocked": ["Path Working", "Tree of Life", "Hebrew Letters", "Talisman Creation", "Archetypal Forces"]
+                },
+                {
+                  "icon": "⚔️",
+                  "name": "Module 4: Advanced Ceremonial Operations",
+                  "description": "Conduct advanced evocation and invocation of spirits. Master ceremonial ritual work, divine names, and astrological timing. Begin communication with higher forces while maintaining proper magical records and boundaries.",
+                  "skills_unlocked": ["Spirit Evocation", "Divine Names", "Planetary Magic", "Angelic Contact", "Ritual Design"]
+                },
+                {
+                  "icon": "👑",
+                  "name": "Module 5: Synthesis and Transcendence",
+                  "description": "Design and execute complex magical operations. Master advanced Tree of Life work, including the supernal triangles and Da'ath. Create your own rituals and work with egregores. Graduate through a powerful group ceremony as a fully capable ceremonial magician.",
+                  "skills_unlocked": ["Advanced Ritual", "Egregore Work", "Supernal Magic", "Group Ceremony", "Independent Practice"]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

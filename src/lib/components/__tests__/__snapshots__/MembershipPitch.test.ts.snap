@@ -1,0 +1,46 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MembershipPitch > Basic Rendering > matches snapshot 1`] = `
+<div>
+  <div
+    class="bg-kohl p-8"
+  >
+    <div
+      class="bg-gray-800 text-white p-4 rounded-lg shadow-md max-w-3xl mx-auto"
+    >
+      <div
+        class="flex items-center space-x-4"
+      >
+        <a
+          aria-label="Membership link"
+          href="https://example.com"
+        >
+          <div
+            class="flex-shrink-0"
+          >
+            <img
+              alt="Logo"
+              class="h-8 w-8 text-blue-400"
+              src="/test-logo.png"
+            />
+          </div>
+        </a>
+         
+        <a
+          aria-label="Membership link"
+          href="https://example.com"
+        >
+          <div
+            class="flex-1 text-sm"
+          >
+            <p>
+              Test membership info
+            </p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  
+</div>
+`;

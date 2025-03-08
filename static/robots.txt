@@ -1,0 +1,9 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://magick.me/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10 
